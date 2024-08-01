@@ -3,31 +3,38 @@
 ### Requisitos Funcionais
 
 **RF-001: Cadastro de Clientes**
+
 - Descrição: O sistema deve permitir o cadastro de clientes, armazenando informações como nome, endereço, telefone e e-mail.
 - Prioridade: Alta
 
 **RF-002: Gestão de Animais**
+
 - Descrição: O sistema deve permitir o cadastro e a gestão de animais, incluindo dados como nome, espécie (cachorro ou gato), raça, idade e estado de saúde.
 - Prioridade: Alta
 
 **RF-003: Gerenciamento de Adoções**
+
 - Descrição: O sistema deve permitir o registro de adoções, associando animais a clientes cadastrados.
 - Prioridade: Alta
 
 **RF-004: Controle de Consultas Veterinárias**
+
 - Descrição: O sistema deve permitir o agendamento e controle de consultas veterinárias para os animais cadastrados.
 - Prioridade: Média
 
 ### Requisitos Não Funcionais
 
 **RNF-001: Desempenho**
+
 - Descrição: O sistema deve ser capaz de processar até 1000 requisições por segundo.
 - Prioridade: Alta
 
 **RNF-002: Usabilidade**
+
 - Descrição: O sistema deve ser intuitivo e fácil de usar para administradores e funcionários do abrigo.
 - Prioridade: Média
 
 **RNF-003: Segurança**
+
 - Descrição: O sistema deve garantir a segurança dos dados dos clientes e animais, utilizando criptografia e controle de acesso.
 - Prioridade: Alta
