@@ -23,3 +23,4 @@ O Sistema de Gestão de Abrigo de Animais é uma aplicação web projetada para 
 
 1. **Node.JS v20.12.2**
 2. **React.JS v18.3.1**
+3. **MySql v8.3.0**
